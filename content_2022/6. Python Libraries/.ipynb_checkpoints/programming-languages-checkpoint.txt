@@ -1,0 +1,10 @@
+Python;29.48
+Java;17.18
+JavaScript;9.14
+C#;6.94
+PHP;6.49
+C/C++;6.49
+R;3.59
+TypeScript;2.18
+Swift;2.1
+Objective-C;2.06
