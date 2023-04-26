@@ -194,6 +194,8 @@ We will now create our first conda environment to install all required packages 
 
 - Run 
 
+```cd hh-dcp-intro-to-computer-science```
+
 ```conda env create -f environment.yml```
 
 This install the conda environment defined in the "environment.yml" file. **Note**: When using WSL, it can happen that Conda fails to connect to the anaconda repo and returns a CondaHTTPError. If that is the case, open the Windows Command Prompt and type ```wsl --shutdown```. This will restart WSL. Then open WSL and try again.
