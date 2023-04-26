@@ -193,6 +193,7 @@ Download the appropriate installer for your OS with the latest python version(Py
 We will now create our first conda environment to install all required packages and libraies for the lessons. The most reproducible and recommended way to install a conda environment is from an environment definition in a ".yml" file. To this end, the repository that we just cloned in the previous step contains an "environment.yml" file where the Python version as well as all required packages including their respective versions are defined. We can install the conda environment from the "environment.yml" file as follows:
 
 - Run 
+
 ```cd hh-dcp-intro-to-computer-science```
 
 ```conda env create -f environment.yml```
